@@ -9,8 +9,9 @@ We propose a multimodal AI model that integrates **Abdominal CT images** (visual
 
 ## 🏗️ Model Architecture
 
+<p align="center">
 <img width="476" height="443" alt="image" src="https://github.com/user-attachments/assets/23753f87-7a17-4d91-bae3-373923ce4909" />
-
+</p>
 
 The framework consists of three main components:
 1.  **CT Encoder:** A Swin-transformer extracting features from CT volumes.
