@@ -12,7 +12,7 @@ We propose a multimodal AI model that integrates **Abdominal CT images** (visual
 ## 🏗️ Model Architecture
 
 The framework consists of three main components:
-1.  **CT Encoder:** A Swin-transformer (e.g., ResNet/EfficientNet) extracting features from liver/spleen segmentation.
+1.  **CT Encoder:** A Swin-transformer extracting features from CT volumes.
 2.  **Clinical Encoder:** A Bootstrapping LanguageImage Pre-training for unified vision-language understanding and generation (e.g., Platelet count, Albumin, TB).
 3.  **Fusion Module:** A cross-attention mechanism combining visual and clinical embeddings.
 
