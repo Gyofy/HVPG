@@ -1,4 +1,4 @@
-# CT-Based Multimodal AI for CSPH Prediction
+# CT-Based Multimodal AI for HVPG Analaysis
 
 ## 📌 Introduction
 This repository contains the official implementation of the paper:  
