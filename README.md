@@ -10,7 +10,8 @@ We propose a multimodal AI model that integrates **Abdominal CT images** (visual
 ## 🏗️ Model Architecture
 
 <p align="center">
-<img width="7870" height="3603" alt="image" src="https://github.com/user-attachments/assets/80c2ed01-d74f-47c6-967c-ac13c86267ee" />
+<img width="2000" height="915" alt="image" src="https://github.com/user-attachments/assets/370a5e31-fbfb-4ade-8e2c-562fe4e92cb9" />
+
 
 </p>
 
